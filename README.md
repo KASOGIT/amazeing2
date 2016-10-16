@@ -1,2 +1,27 @@
 # amazeing2
-Program that generate and resolve labyrinth
+
+Program that generate and resoles maze.
+
+## Installation && Tools
+
+Just need to run 'make' on linux system.</br>
+
+## Usage
+
+./step3/step3 -c [NUMBER OF COLUMNS] -r [NUMBER OF RAWS] [--square || --hexagonal]
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+Second year project at Epitech (European Institute of Technology). Subject pdf at the root.
+
+## License
+
+MIT
